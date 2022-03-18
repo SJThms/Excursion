@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    overflow: visible;
+    box-sizing: border-box;
+}
+
+body {
+    height: 100%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    background-color: black;
+    text-align: center;
+}
+
+h1 {
+    font-size: 50px;
+    font-weight: 400;
+}
+
+h2 {
+    font-size: 42px;
+    font-weight: 300;
+}
+
+a {
+    font-size: 16px;
+    color: aquamarine;
+}
+
+.parag_text {
+    font-size: 21px;
+    color: gray;
+}
+
