@@ -30,7 +30,7 @@ a {
 }
 
 .footer_text {
-    text-align: right;
+    text-align: end;
     color: gray;
     font-size: 21px;
 }
