@@ -33,7 +33,7 @@ a {
     color: gray;
 }
 
-footer {
+.footer_text {
     text-align: right;
     color: gray;
     font-size: 21px;
