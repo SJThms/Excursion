@@ -1,5 +1,5 @@
 # Excursion
-Codecademy Excursion Exercises
+Codecademy Excursion Exercise
 <br>
 Codecademy practice exercise to create a web page which advertises a product called 'Excursion'. <br>
 The web page will be the landing page for a mobile app which helps users record and share their experience, using video and landscape imagery. <br>
